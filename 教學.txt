@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/22165953/tortoisegit-git-did-not-exit-cleanly-exit-code-1
